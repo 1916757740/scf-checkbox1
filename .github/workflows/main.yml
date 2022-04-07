@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
      
-      - name: sync lxk0301-scripts
+      - name: sync wenmoux-scripts
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
