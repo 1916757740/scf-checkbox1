@@ -19,5 +19,5 @@
 
 ## 特别感谢(排名不分先后)
 - @忧郁的未来-群友
-- @[wenmoux](https://github.com/wenmoux/checkbox)
-- @[wenyanY](https://github.com/wenyanY)
+- [@wenmoux](https://github.com/wenmoux/checkbox)
+- [@wenyanY](https://github.com/wenyanY)
