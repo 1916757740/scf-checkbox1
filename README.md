@@ -17,7 +17,7 @@
 | `editIndexJsFile`             |是否编辑index.js文件(填 true/false)      | 非必须 | 
 
 
-## 致谢(排名不分先后)
-@忧郁的未来-群友
-@[wenmoux](https://github.com/wenmoux/checkbox)
-@[wenyanY](https://github.com/wenyanY)
+## 特别感谢(排名不分先后)
+- @忧郁的未来-群友
+- @[wenmoux](https://github.com/wenmoux/checkbox)
+- @[wenyanY](https://github.com/wenyanY)
