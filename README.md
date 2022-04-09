@@ -18,6 +18,7 @@
 | `DEPLOY_PUSH_KEY`             |微信server酱推送          | 非必须 |
 
 ### 详细部署教程(建议看这个文章)地址：[涅槃重生：零基础玩转云函数之签到盒](https://www.llh1347.com/archives/2022409.html)
+![image](https://user-images.githubusercontent.com/68180007/162554127-5501cc84-3a42-4adc-a8dd-17328305dcda.jpeg)
 
 ## 喜欢本项目的欢迎点star⭐️和fork，谢谢♥~
 
