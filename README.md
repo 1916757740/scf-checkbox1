@@ -21,8 +21,10 @@
 ![image](https://user-images.githubusercontent.com/68180007/162554127-5501cc84-3a42-4adc-a8dd-17328305dcda.jpeg)
 
 ## 喜欢本项目的欢迎点star⭐️和fork，谢谢♥~
+- 2022.4.14更新 感谢网名为恶意的群友在使用本项目并提出问题，问题目前已经修复。
 
 ## 特别感谢(排名不分先后)
 - @忧郁的未来-群友
+- @恶意-群友
 - [@wenmoux](https://github.com/wenmoux/checkbox)
 - [@wenyanY](https://github.com/wenyanY)
