@@ -22,7 +22,7 @@ jobs:
         with:
           source_repo: "https://github.com/llh1347/checkbox.git"
           source_branch: "main"
-          destination_branch: "main"
+          destination_branch: "master"
           github_token: ${{ env.PAT }}
       
       - uses: actions/checkout@v2
